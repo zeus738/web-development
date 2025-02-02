@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Images</title>
+</head>
+<body>
+   <img src="image.png" alt="train image">
+   <caption></caption>
+   <table>
+    <caption>Employee Details</caption>
+    <tr>
+        <th>name</th>
+        <th>age</th>
+        <th>language</th>
+    </tr>
+    <tr>
+        <td>Pratik</td>
+        <td>19</td>
+        <td>html</td>
+    </tr>
+    <tr>
+        <td>sam</td>
+        <td>23</td>
+        <td>java</td>
+    </tr>
+</table>
+<ul type="square">
+    <li>Pratik</li>
+    <li>Sam</li>
+    <li>Rohan</li>
+</ul>
+
+
+<ol type="A" start="3">
+    <li>Pratik</li>
+    <li>Sam</li>
+    <li>Rohan</li>
+</ol>
+    
+</body>
+</html>

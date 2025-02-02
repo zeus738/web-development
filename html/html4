@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="The page is about the begining html file.">
+    <title>Coding- Pratik</title>
+</head>
+<body>
+    <h1>Coding</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime modi provident officiis explicabo labore saepe pariatur numquam inventore est beatae dolorem commodi quibusdam nihil soluta, nisi earum ipsam facere expedita ipsa minima blanditiis tenetur eius a voluptatibus! Veniam consectetur alias recusandae reprehenderit exercitationem, mollitia repudiandae incidunt perferendis quasi aliquid doloribus! Obcaecati et assumenda nemo qui consectetur. Animi ipsa dicta sed inventore corporis?</p>
+
+</body>
+</html>

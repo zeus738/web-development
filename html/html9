@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mytravel.com</title>
+</head>
+<body>
+    <img src="image - Copy.png" alt="">
+    <h1>Welcome</h1>
+    <h2>Book your vacation with us</h2>
+    <form action="/submit">
+        <label for="source">source:</label>
+        <input type="text" id="source" name="source">
+        <br><br>
+        <label for="destination">destiantion:</label>
+        <input type="text" id="destiantion" name="destination">
+        <br><br>
+        <label for="guest">guest:</label>
+        <input type="number" id="guest" name="guest">
+        <br><br>
+        <input type="submit" value="submit">
+    </form>
+
+    
+</body>
+</html>
